@@ -13,7 +13,7 @@ CE341 Software Engineering การบ้านครั้งที่ 1
 
 ![image](https://github.com/por001x/CE341_ID1809/assets/113163100/a5f2592b-8273-4fa9-a50a-1591136a1f99)
 
-4.ทำการติดตั้ง apache และ git บน Ubuntu20 ด้วยคำสั่ง 
+4.ทำการติดตั้ง apache2 และ git บน Ubuntu20 ด้วยคำสั่ง 
   - sudo apt update
   - sudo apt install apache2
   - sudo apt install git
