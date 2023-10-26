@@ -36,6 +36,15 @@ CE341 Software Engineering การบ้านครั้งที่ 1
 
 ![image](https://github.com/por001x/CE341_ID1809/assets/113163100/0f0b48de-fda9-4e82-8aa0-6b422eef26c1)
 
-9.หน้าแสดงผลลัพธ์บนเบราเซอร์
+9.ทำการย้ายไฟล์ index.html ไปโฟลเดอร์ของ apache
 
-![image](https://github.com/por001x/CE341_ID1809/assets/113163100/12800012-89f5-43bb-a889-49d9b4c66283)
+![image](https://github.com/por001x/CE341_ID1809/assets/113163100/27a02261-99f8-4254-9e21-1fbbd47f7658)
+
+10.ทำการกรอก URL เป็น ip address ของ Ubuntu
+
+![image](https://github.com/por001x/CE341_ID1809/assets/113163100/5e8c18e3-ed59-4454-97ec-e9e75a4a2898)
+
+11.หน้าแสดงผลลัพธ์บนเบราเซอร์
+
+![image](https://github.com/por001x/CE341_ID1809/assets/113163100/210b5667-8dc7-4548-9e73-455cd082f9ae)
+
